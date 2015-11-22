@@ -61,7 +61,7 @@ if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"title": "BaNaFlix ", "url": "https://googledrive.com/host/0Bx4VkV8g6CLBczB2VzRaT3ZhNkU/Bluecinema.xml", "fanart": "http://i.imgur.com/iuyG5FV.jpg", "genre": "TV ONLINE", "date": "10.31.2015", "credits": "BaNaFlix", "thumbnail": "http://i.imgur.com/BklHdNq.jpg"}]
+SOURCES = [{"title": "BaNaFlix ", "url": "https://googledrive.com/host/0B7e3_9lKAtN3MlA2UGVieTN4alU/BaNaFlix.xml", "fanart": "http://i.imgur.com/iuyG5FV.jpg", "genre": "TV ONLINE", "date": "10.31.2015", "credits": "BaNaFlix", "thumbnail": "http://i.imgur.com/BklHdNq.jpg"}]
 
 # http://i.imgur.com/iuyG5FV.jpg
 # http://i.imgur.com/BklHdNq.jpg
