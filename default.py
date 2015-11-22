@@ -61,10 +61,10 @@ if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"title": "BaNaFlix ", "url": "https://googledrive.com/host/0Bx4VkV8g6CLBczB2VzRaT3ZhNkU/Bluecinema.xml", "fanart": "https://drive.google.com/file/d/0B7e3_9lKAtN3NTdyd1U3d0tqQzA/view?usp=sharing", "genre": "TV ONLINE", "date": "10.31.2015", "credits": "BaNaFlix", "thumbnail": "https://drive.google.com/file/d/0B7e3_9lKAtN3bzVuOGp2Vzl1dDg/view?usp=sharing"}]
+SOURCES = [{"title": "BaNaFlix ", "url": "https://googledrive.com/host/0Bx4VkV8g6CLBczB2VzRaT3ZhNkU/Bluecinema.xml", "fanart": "http://i.imgur.com/iuyG5FV.jpg", "genre": "TV ONLINE", "date": "10.31.2015", "credits": "BaNaFlix", "thumbnail": "http://i.imgur.com/BklHdNq.jpg"}]
 
-# https://drive.google.com/file/d/0B7e3_9lKAtN3NTdyd1U3d0tqQzA/view?usp=sharing
-# https://drive.google.com/file/d/0B7e3_9lKAtN3bzVuOGp2Vzl1dDg/view?usp=sharing
+# http://i.imgur.com/iuyG5FV.jpg
+# http://i.imgur.com/BklHdNq.jpg
 
 """
 if os.path.exists(source_file)==True:
