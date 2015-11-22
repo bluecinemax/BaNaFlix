@@ -1,0 +1,21 @@
+﻿<settings>
+
+
+  <category label="[COLOR cornflowerblue]BaNaFlix [/COLOR]">
+    <setting id="Updatecommonresolvers" label="Update Commonresolver from Genesis" type="bool" default="true" visible="false"/>
+	<setting type="lsep" label=" Actualización 21/11/2015" option="close" action="RunPlugin(plugin://plugin.video.BaNaFlix/?mode=7)" />
+        <setting type="lsep" label="Gracias por tu Preferencia" option="close" action="RunPlugin(plugin://plugin.video.BaNaFlix/?mode=7)" />
+        <setting id="save_location" type="folder"  label="Select a download location." default=""/>
+    <setting id="add_playlist" type="bool" label="Add items with multiple links as play lists" default="true"/>
+    <setting id="ask_playlist_items" type="bool" label="Ask playlist items to choose from dialog" default="true" />
+    <setting id="debug" type="bool" label="Enable Add-on Debugging" default="true"/>
+    <setting id="1080pquality" label="Play 1080p video ON demand if available (Not live)" type="bool" default=""/>
+    <setting id="genesisorpulsar" type="enum" values="Genesis|Pulsar" label="Play IMDBid with:" default="Genesis"/>
+	<setting id="donotshowbychannels" label="Do Not show items under channel name" type="bool" default="false"/>
+
+    <setting id="parentalblockedpin" label="PIN BLOQUEO" type="text"  option="hidden"  default="false"/>
+    
+    
+  </category>
+
+</settings>
