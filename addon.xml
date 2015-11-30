@@ -19,9 +19,9 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>[COLOR yellow]BaNaFlix [/COLOR], Basado "LiveStreamPro" Shani</summary>
+    <summary>[COLOR yellow]BaNaFlix [/COLOR], Basado "LiveStreamPro" Shani, Create By : BlueRey 2.0</summary>
     <description>
-      Tu Cine En Casa
+      Tu Cine En Casa ... By BlueRey Technology
     </description>
     <platform>all</platform>
   </extension>
