@@ -1,7 +1,7 @@
 ﻿<settings>
 
 
-  <category label="[COLOR cornflowerblue]BaNaFlix [/COLOR]">
+  <category label="[COLOR yellow]BaNaFlix [/COLOR]">
     <setting id="Updatecommonresolvers" label="Update Commonresolver from Genesis" type="bool" default="true" visible="false"/>
 	<setting type="lsep" label=" Actualización 21/11/2015" option="close" action="RunPlugin(plugin://plugin.video.BaNaFlix/?mode=7)" />
         <setting type="lsep" label="Gracias por tu Preferencia" option="close" action="RunPlugin(plugin://plugin.video.BaNaFlix/?mode=7)" />
